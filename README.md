@@ -1,4 +1,4 @@
-# springboot-learning
+# springboot-sandbox
 Hello everyone who might be (un)lucky enough to come across this!
 
 I have been a software developer since graduating in 2021 with my Bachelor's degree in Computer Information Systems (basically Computer Science without all the calculus) and have worked at a point-of-sale solutions development company since graduation. I was hired directly by the CTO at the time, with no technical interview since he was already familiar with my code snippets from browsing my other repos. It was an incredible, once-in-a-lifetime opportunity that I don't think I'll ever get again, and I am proud to call him my mentor and my friend.
